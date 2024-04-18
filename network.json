@@ -4,12 +4,10 @@
             "name": "homestead",
             "chainId": 1,
             "rpcUrls": [
-                "https://mainnet.infura.io/v3/1497160439754c36b293cbb0ad61aabf",
                 "https://cloudflare-eth.com",
                 "https://rpc.ankr.com/eth/mainnet"
             ],
             "customUrls": [
-                "https://mainnet.infura.io/v3/f20c4b252ae949aeb9f26ee0c7494a2d"
             ]
         },
         "bsc": {
