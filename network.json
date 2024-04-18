@@ -1,0 +1,36 @@
+{
+	"networks": {
+        "eth": {
+            "name": "homestead",
+            "chainId": 1,
+            "rpcUrls": [
+                "https://mainnet.infura.io/v3/1497160439754c36b293cbb0ad61aabf",
+                "https://cloudflare-eth.com",
+                "https://rpc.ankr.com/eth/mainnet"
+            ],
+            "customUrls": [
+                "https://mainnet.infura.io/v3/f20c4b252ae949aeb9f26ee0c7494a2d"
+            ]
+        },
+        "bsc": {
+            "name": "bsc-mainnet",
+            "chainId": 56,
+            "rpcUrls": [
+                "https://bsc-dataseed.binance.org",
+                "https://bsc-dataseed1.defibit.io",
+                "https://bsc-dataseed1.ninicoin.io",
+                "https://bsc-dataseed2.defibit.io",
+                "https://bsc-dataseed3.defibit.io",
+                "https://bsc-dataseed4.defibit.io",
+                "https://bsc-dataseed2.ninicoin.io",
+                "https://bsc-dataseed3.ninicoin.io",
+                "https://bsc-dataseed4.ninicoin.io",
+                "https://bsc-dataseed1.binance.org",
+                "https://bsc-dataseed2.binance.org",
+                "https://bsc-dataseed3.binance.org",
+                "https://bsc-dataseed4.binance.org"
+            ],
+            "customUrls": []
+        }
+    }
+}
